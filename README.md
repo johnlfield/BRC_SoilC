@@ -23,7 +23,7 @@ Each of the BRCs includes a modeling effort using the process-based DayCent mode
 
 This provides a basic point of comparison across the projects. 
 
-![Conceptual diagrams– DayCent, and integrated assessment](Integrated_DayCent.png)
+![Conceptual diagrams– DayCent, and integrated assessment](00_graphics/Integrated_DayCent.png)
 *A) Schematic of the DayCent model. B) Conceptual illustration of an integrated assessment, in which targeting biomass crop cultivation on marginal lands might require more intensive management, which in turn affects crop yields, SOC outcomes, and N2O emissions.*
 
 
@@ -33,7 +33,7 @@ This provides a basic point of comparison across the projects.
 ### Crops
 Each of the BRCs specializes in developing and assessing a different set of dedicated biomass crops, as shown in the matrix below. 
 
-![Matrix of crops modeled across the 4 BRCs](Crop_overlap.png)
+![Matrix of crops modeled across the 4 BRCs](00_graphics/Crop_overlap.png)
 
 *Matrix showing the dedicated biomass crops modeled across each of the 4 BRCs.*
 
